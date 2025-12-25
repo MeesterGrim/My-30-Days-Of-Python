@@ -9,9 +9,9 @@ Build foundational Python skills to support my DevOps/SRE career transition and 
 
 | Day | Topic | Status |
 |-----|-------|--------|
-| 01  | Introduction | 🔲 Not Started |
-| 02  | Variables, Built-in Functions | 🔲 Not Started |
-| 03  | Operators | 🔲 Not Started |
+| 01  | Introduction | ✅ Completed  |
+| 02  | Variables, Built-in Functions | ✅ Completed |
+| 03  | Operators | 🔄 In Progress |
 | 04  | Strings | 🔲 Not Started |
 | 05  | Lists | 🔲 Not Started |
 | 06  | Tuples | 🔲 Not Started |
